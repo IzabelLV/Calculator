@@ -1,3 +1,3 @@
 # Calculator
 
-Update: Added a convertor.
+More updates and optimization soon.
