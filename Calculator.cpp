@@ -35,14 +35,11 @@ int main() {
 		{
 		case '1':
 		    printTwoNumbers();
-	        std::cin >> a;
-
 			while (!(std::cin >> a))
 			{
                 errorMessageWhenWrongInput();
 			}
 
-            std::cin >> b;
 			while (!(std::cin >> b))
 			{
                 errorMessageWhenWrongInput();
@@ -53,13 +50,11 @@ int main() {
 
 		case '2':
 		    printTwoNumbers();
-	        std::cin >> a;
 			while (!(std::cin >> a))
 			{
                 errorMessageWhenWrongInput();
 			}
 
-            std::cin >> b;
 			while (!(std::cin >> b))
 			{
                 errorMessageWhenWrongInput();
@@ -70,13 +65,11 @@ int main() {
 
 		case '3':
 		    printTwoNumbers();
-	        std::cin >> a;
             while (!(std::cin >> a))
 			{
                 errorMessageWhenWrongInput();
 			}
 
-            std::cin >> b;
 			while (!(std::cin >> b))
 			{
                 errorMessageWhenWrongInput();
@@ -87,13 +80,11 @@ int main() {
 
 		case '4':
 		    printTwoNumbers();
-	        std::cin >> a;
 			while (!(std::cin >> a))
 			{
                 errorMessageWhenWrongInput();
 			}
 
-            std::cin >> b;
 			while (!(std::cin >> b))
 			{
                 errorMessageWhenWrongInput();
