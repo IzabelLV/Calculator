@@ -1,3 +1,3 @@
 # Calculator
 
-More updates and optimization soon.
+The perfect tool when you need to calculate something.
